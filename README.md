@@ -3,13 +3,12 @@ Ce projet illustre comment utiliser des outils de manipulation de mémoire pour 
 
 Outils utilisés
 
-    Scanmem : Un outil en ligne de commande pour rechercher et modifier des valeurs en mémoire.
-    GameConqueror : Une interface graphique pour scanmem qui simplifie la recherche et la modification des valeurs en mémoire.
-    GDB : Un débogueur qui peut être utilisé pour inspecter et modifier la mémoire d'un programme en cours d'exécution.
-    
-  # Bash 
-  sudo apt install scanmem gameconqueror
-  sudo apt install gbd
+canmem : Un outil en ligne de commande pour rechercher et modifier des valeurs en mémoire.
+GameConqueror : Une interface graphique pour scanmem qui simplifie la recherche et la modification des valeurs en mémoire.
+GDB : Un débogueur qui peut être utilisé pour inspecter et modifier la mémoire d'un programme en cours d'exécution.
+
+      sudo apt install scanmem gameconqueror
+      sudo apt install gbd
 
 Étapes de la procédure
 
