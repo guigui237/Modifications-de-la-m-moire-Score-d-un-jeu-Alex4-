@@ -43,7 +43,7 @@ Modification de la valeur :
 On modifie ensuite la valeur de l'adresse associé avec la commande : 
 
     # Bash 
-    (gdb) set *(int*)0x580160531c48 = 340
+    (gdb) set *(int*)0x580160531c48 = 5900
     detach
 
 ![image](https://github.com/user-attachments/assets/a072b1b7-7357-458f-bcdf-f64a99e55e8b)
